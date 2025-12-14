@@ -1,42 +1,72 @@
 <!DOCTYPE html>
 <html lang="ja">
-        <head>
-                        <meta charset="utf-8" />
-                        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-                        <meta name="generator" content="Pelican" />
-                        <title>最初の投稿</title>
-                        <link rel="stylesheet" href="/theme/css/main.css" />
-                                <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Tech Blog Atom Feed" />
-    <meta name="description" content="簡単にブログ作成" />
-        </head>
+<head>
 
-        <body id="index" class="home">
-                <header id="banner" class="body">
-                        <h1><a href="/">Tech Blog</a></h1>
-                        <nav><ul>
-                                                <li class="active"><a href="/category/tesuto.html">テスト</a></li>
-                        </ul></nav>
-                </header><!-- /#banner -->
-  <section id="content" class="body">
-    <article>
-      <header>
-        <h1 class="entry-title">
-          <a href="/FirstPost.html" rel="bookmark"
-             title="Permalink to 最初の投稿">最初の投稿</a></h1>
-      </header>
+        <title>最初の投稿</title>
+        <meta charset="utf-8" />
+        <link href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Tech Blog Full Atom Feed" />
+        <link href="/feeds/tesuto.atom.xml" type="application/atom+xml" rel="alternate" title="Tech Blog Categories Atom Feed" />
 
-      <div class="entry-content">
-<footer class="post-info">
-        <abbr class="published" title="2019-02-24T00:00:00+09:00">
-                Published: 日 24 2月 2019
-        </abbr>
 
-                <address class="vcard author">
-                        By                                 <a class="url fn" href="/author/username.html">UserName</a>
-                </address>
-        <p>In <a href="/category/tesuto.html">テスト</a>.</p>
-<p>tags: <a href="/tag/tesuto.html">テスト</a> <a href="/tag/tou-gao.html">投稿</a> </p>        
-</footer><!-- /.post-info -->        <h2>最初の投稿です。</h2>
+        <!-- Mobile viewport optimized: j.mp/bplateviewport -->
+        <meta name="viewport" content="width=device-width,initial-scale=1, maximum-scale=1">
+
+        <link rel="stylesheet" type="text/css" href="/theme/gumby.css" />
+        <link rel="stylesheet" type="text/css" href="/theme/style.css" />
+        <link rel="stylesheet" type="text/css" href="/theme/pygment.css" />
+
+
+        <script src="/theme/js/libs/modernizr-2.6.2.min.js"></script>
+
+
+
+
+
+</head>
+
+<body id="index" class="home">
+
+
+    <div class="container">
+
+        <div class="row">
+
+          <header id="banner" class="body">
+                  <h1><a href="/">Tech Blog <strong></strong></a></h1>
+          </header><!-- /#banner -->
+
+            <div id="navigation" class="navbar row">
+              <a href="#" gumby-trigger="#navigation &gt; ul" class="toggle"><i class="icon-menu"></i></a>
+             
+              <ul class="columns">
+                <li><a href="/">Home</a></li>
+
+
+              </ul>
+            </div>
+
+<section id="content" class="body">
+
+   <div class="row">
+        <div class="eleven columns">
+
+
+            <header>
+              <h2 class="entry-title">
+                <a href="/FirstPost.html" rel="bookmark"
+                   title="Permalink to 最初の投稿">最初の投稿</a></h2>
+           
+            </header>
+            <footer class="post-info">
+              <abbr class="published" title="2019-02-24T00:00:00+09:00">
+                日 24 2月 2019
+              </abbr>
+              <address class="vcard author">By 
+                <a class="url fn" href="/author/username.html"> UserName</a>
+              </address>
+            </footer><!-- /.post-info -->
+            <div class="entry-content">
+              <h2>最初の投稿です。</h2>
 <p>Hello <strong>world!</strong> My name is <em>User</em> @Japan.</p>
 <table>
 <thead>
@@ -57,38 +87,72 @@
 <p><strong>ペリカンを使ってみた.</strong></p>
 <div class="highlight"><pre><span></span><code><span class="nb">print</span><span class="p">(</span><span class="s1">&#39;hello world!&#39;</span><span class="p">)</span>
 </code></pre></div>
-      </div><!-- /.entry-content -->
+            </div><!-- /.entry-content -->
 
-    </article>
-  </section>
-                <section id="extras" class="body">
-                                <div class="blogroll">
-                                        <h2>links</h2>
-                                        <ul>
-                                                        <li><a href="https://getpelican.com/">Pelican</a></li>
-                                                        <li><a href="https://www.python.org/">Python.org</a></li>
-                                                        <li><a href="https://palletsprojects.com/p/jinja/">Jinja2</a></li>
-                                                        <li><a href="#">You can modify those links in your config file</a></li>
-                                        </ul>
-                                </div><!-- /.blogroll -->
-                                <div class="social">
-                                        <h2>social</h2>
-                                        <ul>
-                                                        <li><a href="/feeds/all.atom.xml" type="application/atom+xml" rel="alternate">atom feed</a></li>
 
-                                                        <li><a href="#">You can add links in your config file</a></li>
-                                                        <li><a href="#">Another social link</a></li>
-                                        </ul>
-                                </div><!-- /.social -->
-                </section><!-- /#extras -->
+        </div><!-- /.eleven.columns -->
 
-                <footer id="contentinfo" class="body">
-                        <address id="about" class="vcard body">
-                                Proudly powered by <a rel="nofollow" href="https://getpelican.com/">Pelican</a>, which takes great advantage of <a rel="nofollow" href="https://www.python.org/">Python</a>.
-                        </address><!-- /#about -->
+<div class="three columns">
 
-                        <p>The theme is by <a rel="nofollow" href="https://www.smashingmagazine.com/2009/08/designing-a-html-5-layout-from-scratch/">Smashing Magazine</a>, thanks!</p>
-                </footer><!-- /#contentinfo -->
+  <h4>Pages</h4>
 
-        </body>
+  <ul>
+
+  
+
+
+
+
+<nav class="widget">
+  <h4>Social</h4>
+  <ul class="blank">
+    <li><a href="#">You can add links in your config file</a></li>
+    <li><a href="#">Another social link</a></li>
+  </ul>
+</nav>
+
+</div> </div><!-- /.row -->
+
+
+</section>
+
+       </div><!-- /.row -->
+    </div><!-- /.container -->
+
+
+       <div class="container.nopad bg">
+
+    
+        <footer id="credits" class="row">
+          <div class="seven columns left-center">
+
+<!-- override this to add custom footer html -->                   <address id="about" class="vcard body">
+                    Proudly powered by <a href="http://getpelican.com/">Pelican</a>,
+                    which takes great advantage of <a href="http://python.org">Python</a>.
+                    <br />
+                    Based on the <a target="_blank" href="http://gumbyframework.com">Gumby Framework</a>
+                    </address>
+          </div>
+
+
+          <div class="seven columns">
+            <div class="row">
+              <ul class="socbtns">
+
+
+
+
+
+              </ul>
+            </div>
+          </div>
+        </footer>
+
+    </div>
+
+
+  <script src="/theme/js/libs/jquery-1.9.1.min.js"></script>
+  <script src="/theme/js/libs/gumby.min.js"></script>
+  <script src="/theme/js/plugins.js"></script>
+</body>
 </html>
