@@ -8,6 +8,7 @@
   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen&gt;
 &lt;/iframe&gt;
+&lt;p&gt;&lt;a href="https://www.google.com"&gt;リンクテキスト&lt;/a&gt;&lt;/p&gt;
 &lt;h2&gt;賃上げがあっても・・。&lt;/h2&gt;
 &lt;p&gt;インフレーションが進んでいるので給料も少しずつ賃上げされている。
 CPI（物価上昇率）は３％なので、３％を超える賃上げがないと苦しい。
