@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Tech Blog</title><link href="/" rel="alternate"/><link href="/feeds/all.atom.xml" rel="self"/><id>/</id><updated>2019-02-24T00:00:00+09:00</updated><entry><title>最初の投稿</title><link href="/FirstPost.html" rel="alternate"/><published>2019-02-24T00:00:00+09:00</published><updated>2019-02-24T00:00:00+09:00</updated><author><name>UserName</name></author><id>tag:None,2019-02-24:/FirstPost.html</id><summary type="html">&lt;p&gt;簡単にブログ作成&lt;/p&gt;</summary><content type="html">&lt;h2&gt;最初の投稿です。&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Tech Blog</title><link href="/" rel="alternate"/><link href="/feeds/all.atom.xml" rel="self"/><id>/</id><updated>2025-12-15T00:00:00+09:00</updated><entry><title>資産運用は大事</title><link href="/investment.html" rel="alternate"/><published>2025-12-15T00:00:00+09:00</published><updated>2025-12-15T00:00:00+09:00</updated><author><name>Fussa01</name></author><id>tag:None,2025-12-15:/investment.html</id><summary type="html">&lt;p&gt;簡単にブログ作成&lt;/p&gt;</summary><content type="html">&lt;h2&gt;資産運用は大事&lt;/h2&gt;
+&lt;h2&gt;賃上げがあっても・・。&lt;/h2&gt;
+&lt;p&gt;インフレーションが進んでいるので給料も少しずつ賃上げされている。
+CPI（物価上昇率）は３％なので、３％を超える賃上げがないと苦しい。
+税も高くなることが予想されるので３％程度の賃上げでは負け組予備軍
+となってしまう。&lt;/p&gt;</content><category term="資産運用"/><category term="資産運用"/></entry><entry><title>最初の投稿</title><link href="/FirstPost.html" rel="alternate"/><published>2019-02-24T00:00:00+09:00</published><updated>2019-02-24T00:00:00+09:00</updated><author><name>UserName</name></author><id>tag:None,2019-02-24:/FirstPost.html</id><summary type="html">&lt;p&gt;簡単にブログ作成&lt;/p&gt;</summary><content type="html">&lt;h2&gt;最初の投稿です。&lt;/h2&gt;
 &lt;p&gt;Hello &lt;strong&gt;world!&lt;/strong&gt; My name is &lt;em&gt;User&lt;/em&gt; @Japan.&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
