@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Tech Blog</title><link href="/" rel="alternate"/><link href="/feeds/all.atom.xml" rel="self"/><id>/</id><updated>2025-12-15T00:00:00+09:00</updated><entry><title>資産運用は大事</title><link href="/investment.html" rel="alternate"/><published>2025-12-15T00:00:00+09:00</published><updated>2025-12-15T00:00:00+09:00</updated><author><name>Fussa01</name></author><id>tag:None,2025-12-15:/investment.html</id><summary type="html">&lt;p&gt;簡単にブログ作成&lt;/p&gt;</summary><content type="html">&lt;h2&gt;資産運用は大事&lt;/h2&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Tech Blog</title><link href="/" rel="alternate"/><link href="/feeds/all.atom.xml" rel="self"/><id>/</id><updated>2025-12-21T15:00:00+09:00</updated><entry><title>Memory上がりすぎよ</title><link href="/raiseofmemory.html" rel="alternate"/><published>2025-12-21T15:00:00+09:00</published><updated>2025-12-21T15:00:00+09:00</updated><author><name>Fussa01</name></author><id>tag:None,2025-12-21:/raiseofmemory.html</id><summary type="html">&lt;p&gt;&lt;img alt="アイキャッチ" src="./images/raisehighmemory.png"&gt;&lt;/p&gt;
+&lt;h2&gt;メモリが高騰した！&lt;/h2&gt;
+&lt;p&gt;メモリーが高騰している。
+https://pc.watch.impress.co.jp/docs/topic/feature/2071150.html
+どのくらい高騰しているかは上の記事を見て …&lt;/p&gt;</summary><content type="html">&lt;p&gt;&lt;img alt="アイキャッチ" src="./images/raisehighmemory.png"&gt;&lt;/p&gt;
+&lt;h2&gt;メモリが高騰した！&lt;/h2&gt;
+&lt;p&gt;メモリーが高騰している。
+https://pc.watch.impress.co.jp/docs/topic/feature/2071150.html
+どのくらい高騰しているかは上の記事を見てもらえればわかるが、
+ものによっては３倍になってしまった。２００％の値上がり？！
+悪いことに、SSDも高騰の兆しが出ている。
+自作PC界隈ではもう自作終了と囁かれる最悪の事態である。&lt;/p&gt;
+&lt;h2&gt;なぜ高騰するんだ？&lt;/h2&gt;
+&lt;p&gt;AIの需要が高くなり、AI用のデータセンターがこれから建設されることになり、
+メモリの需要も高くなってしまった。
+これに伴い、Micronもコンシュマー用のメモリ販売から撤退して
+データセンター用のメモリに経営資源を投入することとなり、
+市中に出回るメモリが少なくなってしまった。&lt;/p&gt;
+&lt;h2&gt;これからどうなる？&lt;/h2&gt;
+&lt;p&gt;2026年はPCがすごく値上がりして、普段使いのPC利用者にとっては頭痛の種になるだろう。
+Windows勢力についていうと、Windows10がESU（サービス終了）になってしまったのでメモリ大食らいのWindows11しか残っていない。
+新規PCについては絶望するしかないにしても、中古PCは多少見直されるのではないかと思っている。つまりLINUXをいれることでコンシューマーのPCはなんとかやりくりできるのではないか。用途は限定されてしまうかもしれないが、動画視聴、ネットサーフィン程度であれば初心者でもリナックスは扱えると思っている・・・。&lt;/p&gt;</content><category term="PC"/><category term="PC"/></entry><entry><title>資産運用は大事</title><link href="/investment.html" rel="alternate"/><published>2025-12-15T00:00:00+09:00</published><updated>2025-12-15T00:00:00+09:00</updated><author><name>Fussa01</name></author><id>tag:None,2025-12-15:/investment.html</id><summary type="html">&lt;p&gt;簡単にブログ作成&lt;/p&gt;</summary><content type="html">&lt;h2&gt;資産運用は大事&lt;/h2&gt;
 &lt;p&gt;https://www.udemy.com/course/jun-sakai-trading-course5/?couponCode=MT251215JP&lt;/p&gt;
 &lt;iframe width="560" height="315"
   src="https://www.youtube.com/embed/dQw4w9WgXcQ"
