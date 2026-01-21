@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Tech Blog</title><link href="/" rel="alternate"/><link href="/feeds/all.atom.xml" rel="self"/><id>/</id><updated>2025-12-21T15:00:00+09:00</updated><entry><title>Memory上がりすぎよ</title><link href="/raiseofmemory.html" rel="alternate"/><published>2025-12-21T15:00:00+09:00</published><updated>2025-12-21T15:00:00+09:00</updated><author><name>Fussa01</name></author><id>tag:None,2025-12-21:/raiseofmemory.html</id><summary type="html">&lt;p&gt;&lt;img alt="アイキャッチ" src="./images/raisehighmemory.png"&gt;&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Tech Blog</title><link href="/" rel="alternate"/><link href="/feeds/all.atom.xml" rel="self"/><id>/</id><updated>2026-01-21T00:00:00+09:00</updated><entry><title>カーニハンのUNIX回想録の本を読んで・・</title><link href="/ReadingUnixMemoir.html" rel="alternate"/><published>2026-01-21T00:00:00+09:00</published><updated>2026-01-21T00:00:00+09:00</updated><author><name>Fussa０１</name></author><id>tag:None,2026-01-21:/ReadingUnixMemoir.html</id><summary type="html">&lt;p&gt;簡単にブログ作成&lt;/p&gt;</summary><content type="html">&lt;h2&gt;Reading Unix History and a momorir&lt;/h2&gt;
+&lt;p&gt;図書館からカーニハンのUNIX回想録の本を借りれたので読んでいる。
+購入するとなると、３０００円もかかるので、躊躇していた。
+アマゾンのKINDLEで英語版を購入することも可能だが、
+固定レイアウト対応となっていることに気がついた。
+要は文字の拡大縮小というより、画像の拡大縮小という形になって
+しまうのだ。&lt;/p&gt;</content><category term="Unix"/><category term="Unix"/></entry><entry><title>Memory上がりすぎよ</title><link href="/raiseofmemory.html" rel="alternate"/><published>2025-12-21T15:00:00+09:00</published><updated>2025-12-21T15:00:00+09:00</updated><author><name>Fussa01</name></author><id>tag:None,2025-12-21:/raiseofmemory.html</id><summary type="html">&lt;p&gt;&lt;img alt="アイキャッチ" src="./images/raisehighmemory.png"&gt;&lt;/p&gt;
 &lt;h2&gt;メモリが高騰した！&lt;/h2&gt;
 &lt;p&gt;メモリーが高騰している。
 https://pc.watch.impress.co.jp/docs/topic/feature/2071150.html
